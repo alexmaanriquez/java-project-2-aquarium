@@ -1,5 +1,3 @@
-# java-project-2-aquarium
-Java Painter Aquarium Project
 # Project 2: Aquarium
 
 ## Overview
